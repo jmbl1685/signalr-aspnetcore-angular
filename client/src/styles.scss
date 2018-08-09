@@ -1,0 +1,9 @@
+$backcolor_body: #46B7E9;
+$verlag: 'Verlag A', 'Verlag B', "Verlag";
+$color_body: #4D4D4D !important;
+
+body{
+  background-color: $backcolor_body;
+  font-family: $verlag;
+  color: $color_body;
+}

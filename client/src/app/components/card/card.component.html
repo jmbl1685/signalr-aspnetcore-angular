@@ -1,0 +1,30 @@
+<div *ngFor="let Food of FoodList" class="recipe-card">
+
+  <aside>
+
+    <img [src]="Food.foodImage" />
+
+    <a class="button btn-start" (click)="AddStart(Food.foodId)">
+        <fa-icon class="font-btn-star" [icon]="['fas', 'star']" size="sm"></fa-icon>
+    </a>
+
+  </aside>
+
+  <article>
+
+    <h2>{{Food.foodName}}</h2>
+    <h3>{{Food.foodCountry}}</h3>
+
+    <ul>
+
+      <li class="star">
+          <fa-icon [icon]="['fas', 'star']" size="sm"></fa-icon>
+        <span> {{Food.foodStar}}</span>
+      </li>
+    </ul>
+
+    <p class="jutify-text">{{Food.foodDescription}}</p>
+
+  </article>
+
+</div>

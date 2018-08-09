@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SignalR.Repository/1.0.0": {
+        "dependencies": {
+          "SignalR.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SignalR.Repository.dll": {}
+        }
+      },
+      "SignalR.Entities/1.0.0": {
+        "runtime": {
+          "SignalR.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalR.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SignalR.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
