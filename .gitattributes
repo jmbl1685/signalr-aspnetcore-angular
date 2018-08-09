@@ -1,0 +1,2 @@
+$ cat .gitattributes
+client/* linguist-vendored
