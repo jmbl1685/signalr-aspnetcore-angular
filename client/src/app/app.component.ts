@@ -27,7 +27,7 @@ export class AppComponent implements OnInit {
         });
 
       this.appService.HubConnection().on("FoodStar", res => {
-        this.FoodList[res.index] = res.food;
+        this.FoodList[res.index].foodStar = res.food.foodStar;
       })
 
   }
