@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\SignalR\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj",
       "projectName": "SignalR.ExtensionUtility",
-      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\SignalR\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj",
+      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj",
       "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\SignalR\\server\\SignalR.ExtensionUtility\\obj\\",
+      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.ExtensionUtility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

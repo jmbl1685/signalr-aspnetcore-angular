@@ -7,7 +7,7 @@ import { Observable, Observer } from 'rxjs';
 export class AppService {
 
   private hubConnection: HubConnection;
-  private url: string = "https://aspnetcore-api.herokuapp.com";
+  private url: string = "https://localhost:5001";
 
   constructor(private http: HttpClient) {
     this.hubConnection = new HubConnectionBuilder()

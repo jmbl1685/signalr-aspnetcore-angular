@@ -10,3 +10,15 @@ C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Repository\obj\Debug\netcore
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.csproj.CopyComplete
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.dll
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.pdb
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\bin\Debug\netcoreapp2.1\SignalR.Repository.deps.json
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\bin\Debug\netcoreapp2.1\SignalR.Repository.dll
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\bin\Debug\netcoreapp2.1\SignalR.Repository.pdb
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\bin\Debug\netcoreapp2.1\SignalR.Entities.dll
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\bin\Debug\netcoreapp2.1\SignalR.Entities.pdb
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.csprojAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.csproj.CopyComplete
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.dll
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Repository\obj\Debug\netcoreapp2.1\SignalR.Repository.pdb

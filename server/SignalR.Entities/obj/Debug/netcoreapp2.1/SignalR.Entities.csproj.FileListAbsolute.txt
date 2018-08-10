@@ -7,3 +7,12 @@ C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Entities\obj\Debug\netcoreap
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.AssemblyInfo.cs
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.dll
 C:\Users\Juan Manuel\Desktop\SignalR\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.pdb
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\bin\Debug\netcoreapp2.1\SignalR.Entities.deps.json
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\bin\Debug\netcoreapp2.1\SignalR.Entities.dll
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\bin\Debug\netcoreapp2.1\SignalR.Entities.pdb
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.csprojAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.dll
+C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.Entities\obj\Debug\netcoreapp2.1\SignalR.Entities.pdb
