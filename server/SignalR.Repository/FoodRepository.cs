@@ -9,7 +9,7 @@ namespace SignalR.Repository
     public class FoodRepository : IFoodRepository
     {
 
-        public static Food[] FoodArray = new Food[] {
+        public static List<Food> FoodArray = new List<Food>() {
                 new Food()
                 {
                     FoodName = "Bandeja Paisa",
@@ -52,8 +52,8 @@ namespace SignalR.Repository
                 }
            };
 
-        public async Task<IEnumerable<Food>> FoodList()
-            => await Task.Run(() => FoodArray);
+        public async Task<List<Food>> FoodList()
+            => await Task.Run(() => FoodArray );
     }
 }
 

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SignalR.Entities;
@@ -14,7 +12,7 @@ namespace SignalR.API.Controllers
     {
 
         [HttpGet]
-        public async Task<IEnumerable<Food>> Get()
+        public async Task<List<Food>> Get()
             => await RepositoryFactory.FoodRepositoryFactory().FoodList();
 
     }

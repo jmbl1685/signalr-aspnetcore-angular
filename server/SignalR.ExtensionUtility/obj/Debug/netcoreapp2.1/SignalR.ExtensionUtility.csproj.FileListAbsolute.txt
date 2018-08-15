@@ -16,3 +16,12 @@ C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.ExtensionUtility\obj
 C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.AssemblyInfo.cs
 C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.dll
 C:\Users\Juan Manuel\Desktop\signalr-example\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.pdb
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\bin\Debug\netcoreapp2.1\SignalR.ExtensionUtility.deps.json
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\bin\Debug\netcoreapp2.1\SignalR.ExtensionUtility.dll
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\bin\Debug\netcoreapp2.1\SignalR.ExtensionUtility.pdb
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.AssemblyInfoInputs.cache
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.AssemblyInfo.cs
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.dll
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.pdb
+C:\Users\Juan Manuel\Desktop\signalr-aspnetcore-angular\server\SignalR.ExtensionUtility\obj\Debug\netcoreapp2.1\SignalR.ExtensionUtility.csprojAssemblyReference.cache

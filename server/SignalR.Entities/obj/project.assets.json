@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Entities\\SignalR.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj",
       "projectName": "SignalR.Entities",
-      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Entities\\SignalR.Entities.csproj",
+      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj",
       "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

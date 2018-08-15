@@ -11557,11 +11557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.API\\SignalR.API.csproj",
+      "projectUniqueName": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.API\\SignalR.API.csproj",
       "projectName": "SignalR.API",
-      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.API\\SignalR.API.csproj",
+      "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.API\\SignalR.API.csproj",
       "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.API\\obj\\",
+      "outputPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11580,14 +11580,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Entities\\SignalR.Entities.csproj": {
-              "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Entities\\SignalR.Entities.csproj"
+            "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj": {
+              "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj"
             },
-            "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj": {
-              "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj"
+            "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj": {
+              "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.ExtensionUtility\\SignalR.ExtensionUtility.csproj"
             },
-            "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Repository\\SignalR.Repository.csproj": {
-              "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-example\\server\\SignalR.Repository\\SignalR.Repository.csproj"
+            "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj": {
+              "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj"
             }
           }
         }

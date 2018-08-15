@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.API", "SignalR.API\SignalR.API.csproj", "{D161E88C-38AC-47D8-84D4-484285BCE10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Entities", "SignalR.Entities\SignalR.Entities.csproj", "{E039D361-FEBD-42BB-9E8B-C1E7BCE70BE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.Entities", "SignalR.Entities\SignalR.Entities.csproj", "{E039D361-FEBD-42BB-9E8B-C1E7BCE70BE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Repository", "SignalR.Repository\SignalR.Repository.csproj", "{ACD11B85-06B4-4A20-AC34-FC78E326C3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.Repository", "SignalR.Repository\SignalR.Repository.csproj", "{ACD11B85-06B4-4A20-AC34-FC78E326C3E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.ExtensionUtility", "SignalR.ExtensionUtility\SignalR.ExtensionUtility.csproj", "{B81797D9-9B1C-40D6-9B83-7C4B8424EA56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.ExtensionUtility", "SignalR.ExtensionUtility\SignalR.ExtensionUtility.csproj", "{B81797D9-9B1C-40D6-9B83-7C4B8424EA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Test", "SignalR.Test\SignalR.Test.csproj", "{52F84B08-389E-4C18-8FC4-DAD778FB5FC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B81797D9-9B1C-40D6-9B83-7C4B8424EA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B81797D9-9B1C-40D6-9B83-7C4B8424EA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B81797D9-9B1C-40D6-9B83-7C4B8424EA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F84B08-389E-4C18-8FC4-DAD778FB5FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F84B08-389E-4C18-8FC4-DAD778FB5FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F84B08-389E-4C18-8FC4-DAD778FB5FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F84B08-389E-4C18-8FC4-DAD778FB5FC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

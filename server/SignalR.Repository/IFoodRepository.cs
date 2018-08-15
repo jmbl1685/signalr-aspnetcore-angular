@@ -8,6 +8,6 @@ namespace SignalR.Repository
 {
     public interface IFoodRepository
     {
-        Task<IEnumerable<Food>> FoodList();
+        Task<List<Food>> FoodList();
     }
 }
