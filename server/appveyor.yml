@@ -1,6 +1,0 @@
-image: Visual Studio 2017
-test_script:
-  - cmd: dotnet restore 
-  - cmd: dotnet build
-  - cmd: cd SignalR.Test
-  - cmd: dotnet test

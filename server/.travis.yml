@@ -1,0 +1,12 @@
+language: csharp
+solution: SignalR.sln
+
+matrix:
+  include:
+    dotnet: 2.1.302
+    mono: none
+    script:
+    - dotnet restore
+    - dotnet build
+    - cd SignalR.Test
+    - dotnet test
