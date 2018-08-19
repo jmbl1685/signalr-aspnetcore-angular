@@ -1,5 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { AppService } from '../../app.service';
+import { Food } from '../models/Food';
 
 @Component({
   selector: 'card',

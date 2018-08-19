@@ -1,4 +1,4 @@
-interface Food {
+export interface Food {
   readonly foodId: string,
   foodCountry: string,
   foodDescription: string,

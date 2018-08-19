@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { AppService } from './app.service';
+import { Food } from './components/models/Food';
 
 @Component({
   selector: 'app-root',
