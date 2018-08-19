@@ -8,7 +8,7 @@ import { AppService } from './app.service';
 })
 export class AppComponent implements OnInit {
 
-  title = 'app';
+  title = 'App Component';
   FoodList: Array<Food> = [];
 
   constructor(private appService: AppService) {
@@ -26,15 +26,16 @@ export class AppComponent implements OnInit {
           console.error(err);
         });
 
-      this.appService.HubConnection().on("FoodStar", res => {
-        this.FoodList[res.index].foodStar = res.food.foodStar;
-      })
+    this.appService.HubConnection().on("FoodStar", res => {
+      this.FoodList[res.index].foodStar = res.food.foodStar;
+    })
 
   }
 
   public async GetFoodList() {
     const response = await this.appService.GetFoodList();
     this.FoodList = response;
+    console.log(response)
   }
 
 }

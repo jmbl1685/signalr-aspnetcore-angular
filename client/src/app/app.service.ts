@@ -11,15 +11,15 @@ export class AppService {
 
   constructor(private http: HttpClient) {
     this.hubConnection = new HubConnectionBuilder()
-    .withUrl(`${this.url}/FoodHub`)
-    .build();
+      .withUrl(`${this.url}/FoodHub`)
+      .build();
   }
 
-  public HubConnection(): HubConnection{
+  public HubConnection(): HubConnection {
     return this.hubConnection;
   }
 
-  public AddFoodStar(foodId){
+  public AddFoodStar(foodId) {
     this.hubConnection.invoke('AddFoodStar', foodId).catch(err => console.log(err))
   }
 
@@ -43,5 +43,10 @@ export class AppService {
   public GetFoodList(): Promise<any> {
     return this.http.get(`${this.url}/api/food`).toPromise();
   }
+
+  public _GetFoodList(): Observable<any> {
+    return this.http.get(`${this.url}/api/food`);
+  }
+
 
 }

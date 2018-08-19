@@ -1,13 +1,23 @@
-language: csharp
-solution: ./server/SignalR.sln
+
 
 matrix:
   include:
-    dotnet: 2.1.302
-    mono: none
-    script:
-    - cd server
-    - dotnet restore
-    - dotnet build
-    - cd SignalR.Test
-    - dotnet test
+    - language: csharp
+      solution: ./server/SignalR.sln
+      dotnet: 2.1.302
+      mono: none
+      script:
+      - cd server
+      - dotnet restore
+      - dotnet build
+      - cd SignalR.Test
+      - dotnet test
+
+    - language: node_js
+      sudo: false
+      node_js:
+        - "8.11.1"
+      script:
+        - cd client
+        - npm install
+        - npm test

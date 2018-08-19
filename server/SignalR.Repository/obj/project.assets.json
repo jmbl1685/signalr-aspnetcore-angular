@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj",
       "projectName": "SignalR.Repository",
-      "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj",
+      "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\SignalR.Repository.csproj",
       "packagesPath": "C:\\Users\\Juan Manuel\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj": {
-              "projectPath": "c:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj"
+            "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj": {
+              "projectPath": "C:\\Users\\Juan Manuel\\Desktop\\signalr-aspnetcore-angular\\server\\SignalR.Entities\\SignalR.Entities.csproj"
             }
           }
         }
