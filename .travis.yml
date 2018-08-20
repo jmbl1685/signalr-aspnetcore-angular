@@ -19,5 +19,5 @@ matrix:
         - "8.11.1"
       script:
         - cd client
-        - npm install
+        - npm i
         - npm test
