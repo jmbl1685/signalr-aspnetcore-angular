@@ -17,8 +17,6 @@ matrix:
       sudo: false
       node_js:
         - "8.11.1"
-      before_script:
-        - npm install -g @angular/cli
       script:
         - cd client
         - npm i
